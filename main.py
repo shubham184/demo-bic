@@ -1,1 +1,1 @@
-print("Good Morning BLockchain Innovation Center")
+print("Welcome to a demo on Generative AI")
